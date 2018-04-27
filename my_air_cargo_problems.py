@@ -69,7 +69,7 @@ class AirCargoProblem(Problem):
             #fly actions returns an action object, we can take a look at it
             
             
-            #what the fuck does this entire program return in the first place.  
+             
             #what is the purpose of this program
                 #this program through the format of PDDL
                 #searches a state space created by using actions to branch from state to state
